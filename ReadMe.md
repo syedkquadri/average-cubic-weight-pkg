@@ -7,4 +7,4 @@ Open terminal in working directory and execute the below commands to run the pro
 
     npm install
 
-    npm run
+    npm run start
